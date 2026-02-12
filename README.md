@@ -60,7 +60,7 @@ Used:
 
 * Applied K-Means clustering to segment customers.
 
-8. Cluster Characterization
+### 8. Cluster Characterization
 
 # Average characteristics of clusters:
 
