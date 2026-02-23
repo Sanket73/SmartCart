@@ -122,18 +122,18 @@ Used:
 
 # Technologies Used
 
-* Python
+* Programming Language: Python
 
-* Pandas
+* Data Processing & Analysis: Pandas, NumPy
 
-* NumPy
+* Data Visualization: Matplotlib, Seaborn
 
-* Scikit-learn
+* Machine Learning: Scikit-learn
 
-* Matplotlib
+* Clustering Algorithm: K-Means
 
-* Seaborn
+* Cluster Evaluation Methods: Elbow Method, Silhouette Score
 
-# Conclusion
+* Feature Scaling: StandardScaler / MinMaxScaler
 
-The project successfully segments customers into meaningful groups enabling data-driven marketing decisions.
+* Development Environment: Jupyter Notebook / Anaconda
