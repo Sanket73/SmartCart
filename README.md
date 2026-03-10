@@ -138,6 +138,10 @@ Used:
 
 * Development Environment: Jupyter Notebook / Anaconda
 
+## Project Architecture Diagram
+
+![SmartCart Customer Segmentation using Clustering Architecture](https://github.com/Sanket73/SmartCart/blob/main/image.png?raw=true)
+
 # Conclusion
 
 This project successfully segmented customers into four distinct groups using K-Means clustering. The segmentation reveals clear differences in income, spending behavior, and engagement patterns. These insights can help businesses design targeted marketing strategies, improve customer retention, and maximize revenue.
